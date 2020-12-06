@@ -1,0 +1,16 @@
+C:\Users\Илья\Desktop\ПР6_Михайлов_1\ПР6_Михайлов_1\bin\Debug\netcoreapp3.1\ПР6_Михайлов_1.exe
+C:\Users\Илья\Desktop\ПР6_Михайлов_1\ПР6_Михайлов_1\bin\Debug\netcoreapp3.1\ПР6_Михайлов_1.deps.json
+C:\Users\Илья\Desktop\ПР6_Михайлов_1\ПР6_Михайлов_1\bin\Debug\netcoreapp3.1\ПР6_Михайлов_1.runtimeconfig.json
+C:\Users\Илья\Desktop\ПР6_Михайлов_1\ПР6_Михайлов_1\bin\Debug\netcoreapp3.1\ПР6_Михайлов_1.runtimeconfig.dev.json
+C:\Users\Илья\Desktop\ПР6_Михайлов_1\ПР6_Михайлов_1\bin\Debug\netcoreapp3.1\ПР6_Михайлов_1.dll
+C:\Users\Илья\Desktop\ПР6_Михайлов_1\ПР6_Михайлов_1\bin\Debug\netcoreapp3.1\ПР6_Михайлов_1.pdb
+C:\Users\Илья\Desktop\ПР6_Михайлов_1\ПР6_Михайлов_1\obj\Debug\netcoreapp3.1\ПР6_Михайлов_1.csprojAssemblyReference.cache
+C:\Users\Илья\Desktop\ПР6_Михайлов_1\ПР6_Михайлов_1\obj\Debug\netcoreapp3.1\ПР6_Михайлов_1.Form1.resources
+C:\Users\Илья\Desktop\ПР6_Михайлов_1\ПР6_Михайлов_1\obj\Debug\netcoreapp3.1\ПР6_Михайлов_1.Properties.Resources.resources
+C:\Users\Илья\Desktop\ПР6_Михайлов_1\ПР6_Михайлов_1\obj\Debug\netcoreapp3.1\ПР6_Михайлов_1.csproj.GenerateResource.cache
+C:\Users\Илья\Desktop\ПР6_Михайлов_1\ПР6_Михайлов_1\obj\Debug\netcoreapp3.1\ПР6_Михайлов_1.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\ПР6_Михайлов_1\ПР6_Михайлов_1\obj\Debug\netcoreapp3.1\ПР6_Михайлов_1.AssemblyInfo.cs
+C:\Users\Илья\Desktop\ПР6_Михайлов_1\ПР6_Михайлов_1\obj\Debug\netcoreapp3.1\ПР6_Михайлов_1.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\ПР6_Михайлов_1\ПР6_Михайлов_1\obj\Debug\netcoreapp3.1\ПР6_Михайлов_1.dll
+C:\Users\Илья\Desktop\ПР6_Михайлов_1\ПР6_Михайлов_1\obj\Debug\netcoreapp3.1\ПР6_Михайлов_1.pdb
+C:\Users\Илья\Desktop\ПР6_Михайлов_1\ПР6_Михайлов_1\obj\Debug\netcoreapp3.1\ПР6_Михайлов_1.genruntimeconfig.cache
